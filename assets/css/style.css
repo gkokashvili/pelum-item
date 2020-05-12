@@ -252,7 +252,9 @@ li {
 	width: 70%;
 	margin: 0 auto 30px;
 }
-
+.fazaaaaa{
+	display: none;
+}
 .site-heading h4,
 .about-heading h4,
 .choose-heading h4,
@@ -266,6 +268,12 @@ li {
 	letter-spacing: .6px;
 	margin-bottom: 5px;
 	font-weight: 400;
+}
+
+.faq-heading h4 span{
+	font-weight: Bold;
+	color: white;
+	font-size: 18px;
 }
 
 .site-heading h2,
@@ -652,7 +660,8 @@ nav.fixed-top .logo {
 }
 
 nav.fixed-top .logo.HideScroll {
-	display: block
+	display: block;
+	max-width: 50%;
 }
 
 .HideScroll {
@@ -1241,7 +1250,7 @@ ul li i {
 .product-slider .owl-dots span {
 	width: 10px;
 	height: 10px;
-	background: rgba(85, 132, 253, 0.83) none repeat scroll 0 0;
+	background: rgba(253, 85, 91, 0.83) none repeat scroll 0 0;
 	display: inline-block;
 	margin: 0 4px;
 	border-radius: 20px;

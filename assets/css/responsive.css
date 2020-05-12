@@ -117,6 +117,17 @@
 	.faq-right {
 		display: none;
 	}
+	.fazaaaaa{
+		display: block;
+		margin-bottom: 50px;
+	}
+	.fazaaaaa img{
+		height: 500px;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		width: 25%;
+	}
 	.pelum-testimonial-area {
 		background: transparent
 	}
@@ -215,6 +226,21 @@
 	.choose-heading h4,
 	.faq-heading h4 {
 		font-size: 14px
+	}
+	.fazaaaaa{
+		display: block;
+		margin-bottom: 50px;
+	}
+	.fazaaaaa img{
+		height: 400px;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		width: 30%;
+	}
+	.faq-heading h4 span{
+		font-size: 17px;
+		display: block;
 	}
 	.site-heading h2,
 	.about-heading h2,
