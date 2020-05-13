@@ -152,6 +152,16 @@
     .feature-text h3{
         font-size: 20px
     }
+    .virlog img{
+		margin-left:auto;
+		margin-right:auto;
+		display: block;
+	}
+	.virtext h3{
+		text-align:center;
+		margin-left: 0;
+		margin-top: 25px;
+	}
 }
 
 
@@ -365,6 +375,16 @@
         display: block;
         margin: 0 auto;
     }
+    .virlog img{
+		margin-left:auto;
+		margin-right:auto;
+		display: block;
+	}
+	.virtext h3{
+		text-align:center;
+		margin-left: 0;
+		margin-top: 25px;
+	}
 }
 
 
@@ -373,6 +393,16 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	.welcome-text {
 		padding-top: 25%;
+	}
+	.virlog img{
+		margin-left:auto;
+		margin-right:auto;
+		display: block;
+	}
+	.virtext h3{
+		text-align:center;
+		margin-left: 0;
+		margin-top: 25px;
 	}
 	.welcome-image {
 		margin-top: 0px;

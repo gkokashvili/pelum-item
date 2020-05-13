@@ -200,6 +200,21 @@ li {
 	list-style-type: none;
 }
 
+.virlog img{
+	display: block;
+	width: 270px;
+	margin-left: calc( 100% - 309px );
+}
+
+.virtext h3{
+	margin-left: -29px; 
+	font-size:40px; 
+	color: #ef1e23; 
+	line-height: 60px; 
+	margin-top:15px; 
+	font-weight: bold;
+}
+
 .pelum-btn {
 	background-color: #ee1d23 !important;
 	border-radius: 0;
