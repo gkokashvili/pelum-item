@@ -508,7 +508,7 @@
     }
 	.video-inn {
 		padding: 20px;
-		border-radius: 10px
+		border-radius: 0;
 	}
 	.video-inn h2 {
 		line-height: 40px

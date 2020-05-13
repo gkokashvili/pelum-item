@@ -1229,7 +1229,7 @@ ul li i {
 .product-item {
 	background: #fff none repeat scroll 0 0;
 	padding: 30px;
-	border-radius: 10px
+	border-radius: 0;
 }
 
 .product-text h3 {
